@@ -29,6 +29,7 @@ For the last 10 years I have been working as a freelancer designer and illustrat
 * 3ds max
 * Figma (for design)
 * Editors: VSCode, Adobe Dreamveawer
+
 *************************************************************
 
 # Education
@@ -37,12 +38,14 @@ For the last 10 years I have been working as a freelancer designer and illustrat
 Engineer (Standardization, Certification) 
 #### 2010-2012 St. Petersburg Polytechnical Univercity
 Graphic designer
+
 ************************************************************
 
 # Courses
 
 * UI/UX design (google certification program) 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 *******************************************
 
 # Experience
@@ -53,6 +56,7 @@ Graphic designer
 2010-2013
 #### Freelance Designer, Illustrator
 2013-current time
+
 *******************************************
 
 # Languages
