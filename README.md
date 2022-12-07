@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Actiasselene.github.io/rsschool-cv/cv
