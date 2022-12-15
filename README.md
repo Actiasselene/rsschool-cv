@@ -1,1 +1,1 @@
-https://Actiasselene.github.io/rsschool-cv/cv
+https://github.com/Actiasselene/rsschool-cv/blob/rsschool-cv-html/cv.md
