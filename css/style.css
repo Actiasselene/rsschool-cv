@@ -206,6 +206,13 @@ main :not(.contacts) ul {
 
  margin-top: 20px; 
 }
+
+.projects_2 img {
+  margin-top: 20px; 
+
+}
+
+
 .projects a{
  text-decoration: none;
   color: #353030;
@@ -213,15 +220,26 @@ main :not(.contacts) ul {
   margin-left: 140px;
   
 }
+.projects_2 a{
+  text-decoration: none;
+   color: #353030;
+   text-align: center;
+   margin-left: 140px;
+   
+ }
+
+
 
 .projects a:hover {
 color: #f5cb58;
 }
-.code-example p {
-  margin-left: 25px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
+
+.projects_2 a:hover {
+  color: #f5cb58;
+  }
+
+
+
 
 pre {
   margin-left: 20px;
@@ -231,23 +249,7 @@ pre {
   background-color: #a5a5a5; 
 }
 
-footer {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 20px;
-  font-size: 0.9rem;
-  color: #ffffff;
-  background-color: #353030;
-}
 
-footer h2 {
-margin-right: 30px;
-}
-
-footer .github-icon {
-  margin-left: 30px;
-}
 
 
   
